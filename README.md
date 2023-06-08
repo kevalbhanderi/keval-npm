@@ -1,4 +1,4 @@
-# Welcome to gusma 👋
+# Welcome to Kaival 👋
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
 [![Instagram: keval](https://www.instagram.com/keval_bhanderi_307)
 
@@ -14,7 +14,7 @@ npm install
 ## Usage
 
 ```sh
-npx gusma
+npx kaival
 ```
 
 ## Author
