@@ -1,0 +1,17 @@
+{
+  "name": "keval",
+  "version": "1.0.0",
+  "description": "Keval Bhanderi's resume- The console.log version.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^3.0.0",
+    "inquirer": "^7.0.0",
+    "opn": "^6.0.0"
+  }
+}
