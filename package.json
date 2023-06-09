@@ -1,6 +1,6 @@
 {
   "name": "kaival",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Keval Bhanderi's resume- The console.log version.",
   "main": "index.js",
   "scripts": {
