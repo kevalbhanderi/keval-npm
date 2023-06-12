@@ -19,7 +19,7 @@ npx kaival
 
 ## Author
 
-👤 **Gustavo Malamud**
+👤 **Kaival Bhanderi**
 
 * LinkdIn: [@kevalbhanderi305](https://linkedin.com/in/kevalbhanderi305)
 * Github: [@kevalbhanderi](https://github.com/kevalbhanderi)
